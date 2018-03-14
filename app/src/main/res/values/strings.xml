@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="name">For Student</string>
+    <string name="FS">First_Name</string>
+    <string name="Ln">Last_Name</string>
+    <string name="Save">Save</string>
+    <string name="tchr"> For Teacher</string>
+    <string name="stdrat">Student Rating</string>
+    <string name="tchrexp">Expertise</string>
+    <string name="and">Andriod</string>
+    <string name="web">Web</string>
+</resources>
